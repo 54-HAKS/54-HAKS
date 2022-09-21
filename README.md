@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 54 HAKS</h1>
 <h3 align="center">A from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=54-haks&label=Profile%20views&color=0e75b6&style=flat" alt="54-haks" /> </p>
+<p align="left"> <img src=alt="54-haks" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=54-haks" alt="54-haks" /></a> </p>
 
